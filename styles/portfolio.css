@@ -42,3 +42,8 @@ nav a{
     text-decoration: none;
     color: #474747;
 }
+
+/* header related styles */
+.header{
+    background-color: #FFF8F3 ;
+}
